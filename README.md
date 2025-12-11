@@ -337,11 +337,8 @@ chore: 빌드 설정 등
 
 ## 🔗 관련 링크
 
-- [Backend 상세 문서](./pib/README.md)
-- [Frontend 상세 문서](./pfa/README.md)
-- [API 문서](#)
-- [프로젝트 노션](#)
-
+- [Backend 상세 문서](./planit/pib/README.md)
+- [Frontend 상세 문서](./planit/pfa/README.md)
 ---
 
 **Made with ❤️ by Plan-It Team**
